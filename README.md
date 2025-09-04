@@ -1,1 +1,1 @@
-# vocaTraining  :   https://changminjung.github.io/vocaTraining/vocaTraining.html
+# vocaTraining 페이지  :   https://changminjung.github.io/vocatraining.io/vocaTraining.html
